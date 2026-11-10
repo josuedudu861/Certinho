@@ -1,0 +1,25 @@
+RENILDO — CERTINHO DO ESPORTE
+
+Este pacote contém o minissite completo.
+
+ARQUIVOS
+- index.html: página corrigida, com fotos, logo, estilos e scripts incluídos. Abre mesmo sem a pasta assets.
+- assets/: fotos, arte de apresentação, logo, CSS e JavaScript separados para edição.
+- .nojekyll: configuração para servir os arquivos diretamente no GitHub Pages.
+
+PARA PUBLICAR NO GITHUB
+1. Extraia este ZIP no computador. Não envie o ZIP como se fosse o site.
+2. No repositório Renildo-Certinho-, envie o index.html extraído, substituindo o antigo.
+3. Mantenha o nome exato index.html, sem espaços, números ou outro nome.
+4. Clique em Commit changes e aguarde a publicação do GitHub Pages.
+5. Em Settings > Pages, mantenha a branch main e a pasta / (root).
+
+ENDEREÇO PRINCIPAL
+https://josuedudu861.github.io/Renildo-Certinho-/
+
+ENQUETE E VOTOS EXISTENTES
+Os botões levam à enquete original. Este pacote não reinicia nem copia os votos.
+https://voz-riacho-fundo-enquete.flutedpitch3.chatgpt.site/
+
+RESULTADOS
+https://voz-riacho-fundo-enquete.flutedpitch3.chatgpt.site/#resultados
